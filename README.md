@@ -11,4 +11,4 @@
 
 # Live Link
 
-[Live Link]()
+[Live Link](https://know-your-emojis-keshavgupta848101.netlify.app/)
